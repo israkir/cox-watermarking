@@ -55,7 +55,7 @@ Returns: `watermark_sequence`
 Example Call:
 
     ..
-    .. watermark_seq = GenerateGaussianSequence(n)
+    .. watermark_seq = GenerateGaussianSequence(n);
     ..
 
 
