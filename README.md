@@ -6,9 +6,6 @@ on the paper [Ingemar J. Cox, Joe Kilian, F. Thomson Leighton, and Talal Shamoon
 Spectrum Watermarking for Multimedia," IEEE Trans. on Image Processing, Dec. 1997](
 http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=650120).
 
-Implementation details
-======================
-
 SpreadSpectrumEmbed.m
 ---------------------
 
@@ -80,6 +77,6 @@ Example Call:
 
 Note
 ----
-Working directory for Matlab interpreter must be same for all referenced argument files – which 
+Working directory for Matlab interpreter must be same for all referenced argument files -- which 
 means if you do not want to specify file paths, just copy the test files into the src/ directory 
 and run embedding and extracting.
