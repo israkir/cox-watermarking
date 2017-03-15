@@ -46,7 +46,7 @@ GenerateGaussianSequence.m
 --------------------------
 
 Description: Generates n sequence of normally distributed pseudo random numbers of the numbers 
-{0, 1}. This is an auxilary script which is called inside embbedding and extracting programs.
+{0, 1}. This is an auxiliary script which is called inside embbedding and extracting programs.
 
 Arguments: `n`
 
